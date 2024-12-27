@@ -8,8 +8,8 @@
 - <b>Cloud Formation Templates With AWS(IAC)</b>
   - [Praciting IAC Methods To Manage AWS Resources](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Dynamic Website Hosting On AWS (EC2, Route 53, Auto Scaling, and Architecture Planning)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
- - - <b>Create A AWS Lex Bot (Lamda Funtions)</b>
+  - [Website Hosting On EC2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+- <b>Create A AWS Lex Bot (Lamda Funtions)</b>
   - [Praciting Machine Learning & Lamda Functions With Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Static Website Hosting With Docker On AWS ECR(Containers, IAM, Security Polocies)</b>
   - [Docker And ECR Website Hosting](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
