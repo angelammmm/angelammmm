@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angela! <br/><a href="https://github.com/angelammmm">Programmer</a>, <a href="(https://www.linkedin.com/in/angela-mapes-ba74501a6/)">Cloud Engineer</a>, <a
+<h1>Hi, I'm Angela! <br/><a href="https://github.com/angelammmm">Programmer</a>, <a href="https://www.linkedin.com/in/angela-mapes-ba74501a6">Cloud Engineer</a>, <a
 
 
 
