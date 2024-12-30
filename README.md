@@ -8,21 +8,15 @@
   - [Praciting IAC Methods To Manage AWS Resources Using Cloud Formation](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Dynamic Website Hosting On AWS (EC2, Route 53, Auto Scaling, and Architecture Planning)</b>
   - [Website Hosting On EC2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
-- <b>Create A AWS Lex Bot (Lamda Funtions)</b>
+- <b>Create A AWS Lex Bot (Lamda Functions)</b>
   - [Praciting Machine Learning & Lamda Functions With Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Static Website Hosting With Docker On AWS ECR(Containers, IAM, Security Polocies)</b>
+- <b>Static Website Hosting With Docker On AWS ECR(Containers, IAM, Security Policies)</b>
   - [Docker And ECR Website Hosting](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
   
 
 <h2>👩🏻‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+-
   
 <h2>📺 Popular YouTube Videos</h2>
 
