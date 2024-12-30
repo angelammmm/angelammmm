@@ -5,7 +5,7 @@
 <h2>👩🏻‍💻 Cloud Projects:</h2>
 
 - <b>Cloud Formation Templates With AWS(IAC)</b>
-  - [Praciting IAC Methods To Manage AWS Resources](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting IAC Methods To Manage AWS Resources Using Cloud Formation](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Dynamic Website Hosting On AWS (EC2, Route 53, Auto Scaling, and Architecture Planning)</b>
   - [Website Hosting On EC2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 - <b>Create A AWS Lex Bot (Lamda Funtions)</b>
