@@ -14,7 +14,8 @@
 
 - <b>Use Loops And Dictionary Methods To Map Products To Pricing</b>
   - [Create a simple yet efficient Python Script To Catalog Item Prices And Calculate The Total](https://github.com/angelammmm/IT-Equitment-Order-Catalog-/blob/main/README.md)
-
+- <b>Use If Else Statement To Calculate Tips</b>
+  - [Create a Python Script To Calculate Tip Percentage](https://github.com/angelammmm/Tip-Calculator)
   
 
 
