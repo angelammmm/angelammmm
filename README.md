@@ -7,7 +7,7 @@
 - <b>Cloud Formation Templates With AWS(IAC)</b>
   - [Launching And Managing a Web Application with AWS CloudFormation](https://github.com/angelammmm/Launching-And-Managing-a-Web-Application-with-AWS-CloudFormation.git)
 - <b>Dynamic Website Hosting On AWS (EC2, Route 53, Auto Scaling, and Architecture Planning)</b>
-  - [Website Hosting On EC2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/angelammmm/Dynamic-Website-Hosting-On-AWS) <b><i>
+  - [Website Hosting On EC2](https://github.com/angelammmm/Dynamic-Website-Hosting-On-AWS) <b><i>
   
 
 <h2>👩🏻‍💻 Software Development Projects:</h2>
