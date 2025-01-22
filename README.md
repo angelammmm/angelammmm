@@ -8,7 +8,7 @@
   - [Launching And Managing a Web Application with AWS CloudFormation](https://github.com/angelammmm/Launching-And-Managing-a-Web-Application-with-AWS-CloudFormation.git)
 - <b>Dynamic Website Hosting On AWS (EC2, Route 53, Auto Scaling, and Architecture Planning)</b>
   - [Website Hosting On EC2](https://github.com/angelammmm/Dynamic-Website-Hosting-On-AWS) <b><i>
-- <b>Order And FAQ Lex Bot on AWS (AI, Automation, Python and loud Services)</b>
+- <b>Order And FAQ Lex Bot on AWS (AI, Automation, Python and Cloud Services)</b>
   - [Chatbot creation with Lex Bot](https://github.com/angelammmm/FAQ-Chat-Bot-With-AWS-Lex-Bot) <b><i>
 
 <h2>👩🏻‍💻 Software Development Projects:</h2>
