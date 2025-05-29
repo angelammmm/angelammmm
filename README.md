@@ -20,12 +20,12 @@
   
 
 <h2>👩🏻‍💻 Popular Youtube Videos:</h2>
-- <b>Use Loops And Dictionary Methods To Map Products To Pricing</b>
-  - [Use Amazon Buisness Q To Create A Client Facing App For A AI ChatBot]
-(https://youtu.be/EOz5tuw006A)
+
+- <b>Optimize Amazon Q Buisness</b>
+  - [Use Amazon Buisness Q To Create A Client Facing App For A AI ChatBot](https://youtu.be/EOz5tuw006A)
 - <b>Use Use Amazon Comprehend To Train AI Models</b>
-  - [[Create Custom Classifications And Endpoints]
-  (https://youtu.be/EOz5tuw006A)
+  - [Create Custom Classifications And Endpoints](https://youtu.be/EOz5tuw006A)
+ 
   
 
 <!--
